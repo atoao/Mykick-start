@@ -11,3 +11,4 @@ git branch branch_name
 git checkout branch_name
 git merge branch_name
 git brach -d branch_name
+git config --global credential.helper 'cache --timeout=3600'
