@@ -1,0 +1,13 @@
+git init
+git status
+git add local_file/changed_file
+git commit -m "write ur comment in present tense"
+git log
+git remote add origin https://github.com/ur_username/repo_name.git
+git push -u origin master
+git pull origin master
+git diff HEAD
+git branch branch_name
+git checkout branch_name
+git merge branch_name
+git brach -d branch_name
